@@ -1,0 +1,1 @@
+# europe-vps-latency-check
